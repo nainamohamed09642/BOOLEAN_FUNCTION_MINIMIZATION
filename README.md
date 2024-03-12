@@ -34,9 +34,6 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by:NAINA MOHAMED Z
-RegisterNumber:*/212223230131
 module combinationalcircuit(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
@@ -48,6 +45,8 @@ assign x4=(~A)&(B)&(C)&(D);
 assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
+Developed by:NAINA MOHAMED Z
+RegisterNumber:*/212223230131
 
 **RTL realization**
 ![Screenshot 2024-03-12 141031](https://github.com/nainamohamed09642/BOOLEAN_FUNCTION_MINIMIZATION/assets/151916360/8387f582-2a43-4fb9-8e94-95011138e5cb)
