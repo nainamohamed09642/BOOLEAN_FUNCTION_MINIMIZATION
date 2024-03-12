@@ -44,7 +44,7 @@ RegisterNumber:*/212223230131
 
 ![Screenshot 2024-03-12 141031](https://github.com/nainamohamed09642/BOOLEAN_FUNCTION_MINIMIZATION/assets/151916360/8387f582-2a43-4fb9-8e94-95011138e5cb)
 
-**Output:**
+**Truth table:**
 
 
 ![Screenshot 2024-03-12 141042](https://github.com/nainamohamed09642/BOOLEAN_FUNCTION_MINIMIZATION/assets/151916360/592bd9ac-c5af-427d-8bc8-660d1db57c20)
